@@ -68,7 +68,7 @@ python BinaryTree.py
 ## Project Structure
 
 ```text
-Stack/
+BinarySearchTree/
 ├── BinaryTree.py
 ├── README.md
 ```
