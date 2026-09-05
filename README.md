@@ -65,6 +65,14 @@ Clone the repository and run:
 python BinaryTree.py
 ```
 
+## Project Structure
+
+```text
+Stack/
+├── BinaryTree.py
+├── README.md
+```
+
 ## Contributing
 
 Contributions are welcome! Feel free to submit issues and pull requests.
